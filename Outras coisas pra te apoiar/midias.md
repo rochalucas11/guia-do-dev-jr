@@ -40,6 +40,8 @@ Uma das melhores plataformas para conhecer mais sobre tecnologia, aqui está uma
   - [Dev Soutinho](https://www.youtube.com/channel/UCzR2u5RWXWjUh7CwLSvbitA)
 - Hacking
   - [Gabriel Pato](https://www.youtube.com/channel/UC70YG2WHVxlOJRng4v-CIFQ)
+  - [Cássio Batista Pereira](https://www.youtube.com/@CassioBatistaPereira)
+  - [Guia de AppSec](https://www.youtube.com/@GuiadeAppSec)
 
 ## EN
 

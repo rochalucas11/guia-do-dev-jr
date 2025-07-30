@@ -28,3 +28,7 @@ Dica de ouro; Aprenda a usar também o seu terminal, ele é seu melhor amigo!
 ## Microsoft Learn
 
 - [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
+
+## Cybersec
+
+- [APISEC University](https://www.apisecuniversity.com/)
