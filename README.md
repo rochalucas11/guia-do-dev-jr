@@ -33,13 +33,13 @@ Aqui você encontra dicas, roteiros de estudo e muita informação prática pra 
 
 ---
 
-## 🤝 Contribua!
+## 👥 Contribuidores
 
-Tem uma dica, material ou sugestão?  
-Abra uma issue ou faça um pull request!  
-Esse guia é colaborativo e feito pra crescer junto com a comunidade.
+Este guia é feito por várias mãos! Confira quem já colaborou para tornar esse projeto ainda mais completo:
 
----
+<td align="center"><a href="https://github.com/lucasrocha11"><img src="https://avatars.githubusercontent.com/u/40041198?v=4" width="100px;" alt=""/><br /><sub><b>Lucas Rocha</b></sub></a><br /></td>
+
+Quer ver seu nome aqui? Contribua
 
 ## ⭐ Bora crescer juntos?
 
