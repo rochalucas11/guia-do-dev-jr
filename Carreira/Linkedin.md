@@ -26,9 +26,10 @@ Aqui estão algumas dicas valiosas para potencializar seu perfil no LinkedIn e a
 - Projetos pessoais ou colaborativos.
 - Dicas e aprendizados do dia a dia profissional.
 
-## Perfis | Adicione o seu aqui [Nome - Cargo]
+## Perfis | Devs que acho que valem a pena ficar de olho (Instagram)
 
-- [Lucas Rocha - Tech Lead/Software Engineer](https://www.linkedin.com/in/lucasrocha27/)
-- [Giulia Bordignon - Desenvolvedora Backend & Criadora de Conteúdo](https://www.linkedin.com/in/spacecoding/)
-- [Monica Craveiro - Desenvolvedora Backend & Criadora de Conteúdo](https://www.linkedin.com/in/mocraveirodev/)
-- [Juliana Assalti - Desenvolvedora Frontend](https://www.linkedin.com/in/juliana-assalti/)
+- [Lucas Rocha - Tech Lead/Software Engineer](https://www.instagram.com/lucas.rocha.11/)
+- [Giulia Bordignon - Desenvolvedora Backend & Criadora de Conteúdo](https://www.instagram.com/spacecoding/)
+- [Monica Craveiro - Desenvolvedora Backend & Criadora de Conteúdo](https://www.instagram.com/mocraveirodev/)
+- [Juliana Assalti - Desenvolvedora Frontend](https://www.instagram.com/assalti.dev/)
+- [Miguel Pombo - Desenvolvedor Backend](https://www.instagram.com/pombodev/)
