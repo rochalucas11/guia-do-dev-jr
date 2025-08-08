@@ -38,6 +38,9 @@ Uma das melhores plataformas para conhecer mais sobre tecnologia, aqui está uma
   - [Glaucia Lemos](https://www.youtube.com/channel/UC2Qzw5aqCBk_z0lWJnumWQQ)
 - Frontend
   - [Dev Soutinho](https://www.youtube.com/channel/UCzR2u5RWXWjUh7CwLSvbitA)
+- Mobile Android
+  - [Douglas Motta](https://www.youtube.com/@DouglasMotta)
+  - [Alex Felipe](https://www.youtube.com/@AlexFelipeDev/videos)
 - Hacking
   - [Gabriel Pato](https://www.youtube.com/channel/UC70YG2WHVxlOJRng4v-CIFQ)
   - [Cássio Batista Pereira](https://www.youtube.com/@CassioBatistaPereira)
@@ -51,6 +54,9 @@ Uma das melhores plataformas para conhecer mais sobre tecnologia, aqui está uma
   - [Tech With Tim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg)
 - Frontend
   - [Ben Awad](https://www.youtube.com/channel/UC-8QAzbLcRglXeN_MY9blyw)
+- Mobile Android
+  - [Philipp Lackner](https://www.youtube.com/@PhilippLackner)
+  - [Yanneck Reiß](https://www.youtube.com/@yanneckreiss/videos)
 - Gaming
   - [Jabrils](https://www.youtube.com/channel/UCQALLeQPoZdZC4JNUboVEUg)
   - [HeartBeast](https://www.youtube.com/user/uheartbeast)

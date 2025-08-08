@@ -33,3 +33,4 @@ Aqui estão algumas dicas valiosas para potencializar seu perfil no LinkedIn e a
 - [Monica Craveiro - Desenvolvedora Backend & Criadora de Conteúdo](https://www.instagram.com/mocraveirodev/)
 - [Juliana Assalti - Desenvolvedora Frontend](https://www.instagram.com/assalti.dev/)
 - [Miguel Pombo - Desenvolvedor Backend](https://www.instagram.com/pombodev/)
+- [Cesar Maranho - Desenvolvedor Mobile](https://www.linkedin.com/in/cesar-maranho/)
