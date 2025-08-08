@@ -32,3 +32,4 @@ Você pode acessar [aqui](https://www.udemy.com/)
 - https://www.fullstackclub.com.br/
 - https://fullcycle.com.br/
 - https://www.xpeducacao.com.br/
+- https://pl-coding.com/

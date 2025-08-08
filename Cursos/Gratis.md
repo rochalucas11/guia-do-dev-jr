@@ -32,3 +32,9 @@ Dica de ouro; Aprenda a usar também o seu terminal, ele é seu melhor amigo!
 ## Cybersec
 
 - [APISEC University](https://www.apisecuniversity.com/)
+
+## Android
+
+- [Compose](https://www.youtube.com/watch?v=cDabx3SjuOY&list=PLQkwcJG4YTCSpJ2NLhDTHhi6XBNfk9WiC)
+- [Fundamentos do Android](https://www.youtube.com/watch?v=3Ri9PPsGCEg&list=PLQkwcJG4YTCTq1raTb5iMuxnEB06J1VHX)
+- [Fundamentos Kotlin](https://www.youtube.com/watch?v=QsrQV0wXh2E&list=PLQkwcJG4YTCRSQikwhtoApYs9ij_Hc5Z9)
