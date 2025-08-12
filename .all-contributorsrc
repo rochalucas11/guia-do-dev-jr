@@ -16,6 +16,17 @@
         "maintenance",
         "review"
       ]
+    },
+    {
+      "login": "cmaranho",
+      "name": "Cesar Maranho",
+      "avatar_url": "https://avatars.githubusercontent.com/u/34925458?v=4",
+      "profile": "https://github.com/cmaranho",
+      "contributions": [
+        "code",
+        "docs",
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 7,
