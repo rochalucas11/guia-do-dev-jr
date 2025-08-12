@@ -37,7 +37,22 @@ Aqui você encontra dicas, roteiros de estudo e muita informação prática pra 
 
 Este guia é feito por várias mãos! Confira quem já colaborou para tornar esse projeto ainda mais completo:
 
-<td align="center"><a href="https://github.com/lucasrocha11"><img src="https://avatars.githubusercontent.com/u/40041198?v=4" width="100px;" alt=""/><br /><sub><b>Lucas Rocha</b></sub></a><br /></td>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/lucasrocha11">
+        <img src="https://avatars.githubusercontent.com/u/40041198?v=4" width="100px;" alt="Lucas Rocha"/><br />
+        <sub><b>Lucas Rocha</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/cmaranho">
+        <img src="https://avatars.githubusercontent.com/u/34925458?v=4" width="100px;" alt="Cesar Maranho"/><br />
+        <sub><b>Cesar Maranho</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 Quer ver seu nome aqui? Contribua
 
